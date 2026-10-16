@@ -62,7 +62,7 @@
 | 60 | ACQ | product | Annual contract quantities |
 | 61 | Acquisition | other | The purchase of one company by another. |
 | 62 | Aggregation | gl_trm_1 | A practice that allows marketers and local governments to pool the electric or natural gas consumption of multiple customers, or residents as in the case of local governments, in order to purchase the electricity or natural gas at a bulk rate. |
-| 63 | Allegro | product | Legacy Energy Trading and Risk Management system |
+| 63 | Allegro | product | Energy Trading and Risk Management system |
 | 64 | Altamira | other | Altamira company is partner for D.Trading. Home page http://altamira.ai/ |
 | 65 | American Style Option | s_2 | An option which can be exercised by the buyer (holder) at any time during its life. |
 | 66 | Ancillary Services | s_2 | Any service required by a system operator to deliver electricity to the ultimate consumer. Ancillary services include balancing services, load following, or providing reactive power. |

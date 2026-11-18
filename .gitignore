@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sphinx build
+docs/_build/
+
+# Generated RST (regenerated on RTD via pre_build)
+docs/glossary/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
